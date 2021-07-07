@@ -1,6 +1,7 @@
 # Automatic extraction and comparison of literary characters
 
 Author: Beatriz Borges
+
 Supervisor: Professor Frédéric Kaplan
 
 Digital Humanities Lab, Spring Semester 2021
